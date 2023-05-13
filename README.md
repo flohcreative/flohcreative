@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @flohcreative
 - 👀 I’m interested in beautiful UI functional code
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ETH blockchain NFT projects
+- 💞️ I’m looking to collaborate on ChatGPT Business Tools
 - 📫 How to reach me @flohcreative on Twitter DM
 
 <!---
